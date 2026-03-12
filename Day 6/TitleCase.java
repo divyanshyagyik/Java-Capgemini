@@ -1,11 +1,5 @@
 package DSa;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 25-02-2026 16:15
- Project Name : untitled
- *************************************************************/
 public class TitleCase {
     public static  String convert(String s){
         String [] strings = s.split("\\s+");

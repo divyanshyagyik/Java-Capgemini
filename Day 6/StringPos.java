@@ -2,13 +2,6 @@ package DSa;
 
 import java.util.ArrayList;
 import java.util.List;
-
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 25-02-2026 14:39
- Project Name : untitled
- *************************************************************/
 public class StringPos {
     public static void pos(String str,String word){
 

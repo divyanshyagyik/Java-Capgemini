@@ -4,12 +4,6 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 10-02-2026 11:38
- Project Name : Capgemini
- *************************************************************/
 class linkedlist {
     node head;
     node tail;

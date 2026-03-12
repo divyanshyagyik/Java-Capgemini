@@ -6,12 +6,6 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 21-02-2026 15:30
- Project Name : untitled
- *************************************************************/
 public class DirectoryFromUser {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

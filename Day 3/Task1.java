@@ -3,12 +3,6 @@ package org.example;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 04-02-2026 12:13
- Project Name : Capgemini
- *************************************************************/
 public class Task1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

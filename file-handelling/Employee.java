@@ -1,9 +1,4 @@
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 23-02-2026 11:25
- Project Name : untitled
- *************************************************************/
+
 public class Employee {
     int id;
     String name;

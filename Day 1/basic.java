@@ -1,13 +1,6 @@
 package org.example;
 
 import java.util.Scanner;
-
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 20-02-2026 09:34
- Project Name : Capgemini
- *************************************************************/
 public class basic {
     public static void main(String[] args) {
         Scanner sc  = new Scanner(System.in);

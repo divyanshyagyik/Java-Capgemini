@@ -3,13 +3,6 @@ package org.example;
 import java.util.HashMap;
 import java.util.Random;
 import java.util.Scanner;
-
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 05-02-2026 11:26
- Project Name : Capgemini
- *************************************************************/
 public class SMS {
     static HashMap<Long,String> hm = new HashMap<>();
 

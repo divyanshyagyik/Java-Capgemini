@@ -2,12 +2,6 @@ import java.util.InputMismatchException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 21-02-2026 14:13
- Project Name : untitled
- *************************************************************/
 public class Sum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -2,13 +2,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 23-02-2026 09:47
- Project Name : untitled
- *************************************************************/
 public class LambdaDemo {
     interface Calc{
         int add(int a, int b);

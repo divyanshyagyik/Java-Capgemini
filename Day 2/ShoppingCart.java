@@ -3,13 +3,6 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 05-02-2026 10:45
- Project Name : Capgemini
- *************************************************************/
 public class ShoppingCart {
     public static void main(String[] args) {
         List<String> l = new ArrayList<>();

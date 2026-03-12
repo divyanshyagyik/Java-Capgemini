@@ -2,12 +2,6 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.Scanner;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 21-02-2026 10:19
- Project Name : untitled
- *************************************************************/
 public class MarksDB {
     static HashMap<Integer,Student> hm = new HashMap<>();
     static String file = "studentData.bin";

@@ -2,13 +2,6 @@ package org.example;
 
 import java.util.Random;
 import java.util.Scanner;
-
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 04-02-2026 14:13
- Project Name : Capgemini
- *************************************************************/
 public class Dice {
     public static void main(String[] args) {
         Random r = new Random();

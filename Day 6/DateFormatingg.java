@@ -1,11 +1,4 @@
 package DSa;
-
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 25-02-2026 15:14
- Project Name : untitled
- *************************************************************/
 public class DateFormatingg {
     public static String formatting(String str){
         String ans="";

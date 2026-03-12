@@ -1,13 +1,6 @@
 package org.example;
 
 import java.io.*;
-// kavita.arora@capgemini.com
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 11-02-2026 12:00
- Project Name : Capgemini
- *************************************************************/
 public class Capge {
     public static void main(String[] args) throws FileNotFoundException, IOException {
 

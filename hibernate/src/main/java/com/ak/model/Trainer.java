@@ -8,7 +8,6 @@ import jakarta.persistence.Id;
 
 @Entity
 public class Trainer {
-	// this is done by DBMS itself
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	long trainerid;

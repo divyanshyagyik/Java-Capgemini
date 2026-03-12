@@ -1,12 +1,5 @@
 import java.io.*;
 import java.util.Scanner;
-
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 21-02-2026 09:45
- Project Name : untitled
- *************************************************************/
 public class SerializationDemo  {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         FileOutputStream fos = new FileOutputStream("studentData.bin");
