@@ -4,12 +4,6 @@ import java.util.HashMap;
 import java.util.Random;
 import java.util.Scanner;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 05-02-2026 15:04
- Project Name : Capgemini
- *************************************************************/
 public class LogisticManagement {
 
     static class Product {

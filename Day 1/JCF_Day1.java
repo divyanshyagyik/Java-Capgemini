@@ -4,12 +4,6 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 04-02-2026 11:44
- Project Name : Capgemini
- *************************************************************/
 public class JCF_Day1{
     public static void main(String[] args) {
         ArrayList<String > list = new ArrayList<>();

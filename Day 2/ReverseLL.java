@@ -4,12 +4,6 @@ import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Stack;
 
-/*************************************************************
- Developer Name : Ayush Tiwari
- Developer Contact : ayushtiwari3012004@gmail.com
- Created on : 06-02-2026 10:58
- Project Name : Capgemini
- *************************************************************/
 public class ReverseLL {
     public static boolean check(String s) {
         Stack<Character> stack = new Stack<>();
